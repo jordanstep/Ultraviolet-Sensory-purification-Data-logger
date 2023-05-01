@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arduino Data logger", "Arduino Data logger\Arduino Data logger.vbproj", "{1349BCF4-E253-4880-8CA8-A75C9E63302C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApp1", "..\WindowsApp1\WindowsApp1\WindowsApp1.vbproj", "{1A4AB740-EB70-43E3-8E12-7F348451A4DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1349BCF4-E253-4880-8CA8-A75C9E63302C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1349BCF4-E253-4880-8CA8-A75C9E63302C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1349BCF4-E253-4880-8CA8-A75C9E63302C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1349BCF4-E253-4880-8CA8-A75C9E63302C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4AB740-EB70-43E3-8E12-7F348451A4DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4AB740-EB70-43E3-8E12-7F348451A4DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4AB740-EB70-43E3-8E12-7F348451A4DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4AB740-EB70-43E3-8E12-7F348451A4DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D610C2B3-9FE8-4A64-9C2E-1060958CBF1C}
+	EndGlobalSection
+EndGlobal
